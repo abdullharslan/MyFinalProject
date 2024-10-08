@@ -13,3 +13,11 @@
 /Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.pdb
 /Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.genruntimeconfig.cache
 /Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/Debug/net8.0/ref/ConsoleUI.dll
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/Business.dll
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/DataAccess.dll
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/Entities.dll
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/Business.pdb
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/DataAccess.pdb
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/bin/Debug/net8.0/Entities.pdb
+/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.Up2Date

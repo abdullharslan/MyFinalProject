@@ -4,6 +4,71 @@
     "/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
+    "/Users/abdullah/Desktop/MyFinalProject/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/MyFinalProject/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Business/Business.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/MyFinalProject/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +77,136 @@
         "projectPath": "/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/ConsoleUI.csproj",
         "packagesPath": "/Users/abdullah/.nuget/packages/",
         "outputPath": "/Users/abdullah/Desktop/MyFinalProject/ConsoleUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/MyFinalProject/Business/Business.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Business/Business.csproj"
+              },
+              "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/abdullah/Desktop/MyFinalProject/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/MyFinalProject/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/abdullah/Desktop/MyFinalProject/Entities/Entities.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/MyFinalProject/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abdullah/.nuget/NuGet/NuGet.Config"
